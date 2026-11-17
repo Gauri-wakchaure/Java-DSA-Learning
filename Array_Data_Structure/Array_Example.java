@@ -6,6 +6,8 @@ public class Array_Example{
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Length of an Array = " + marks.length);
+
         marks[0] = sc.nextInt();
         marks[1] = sc.nextInt();
         marks[2] = sc.nextInt();
