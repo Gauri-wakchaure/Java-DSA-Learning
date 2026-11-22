@@ -16,5 +16,8 @@ public class Strings{
         Scanner sc1 = new Scanner(System.in);
         String line = sc1.nextLine();
         System.out.println(line);
+
+        String fullName = "Gauri Wakchaure";
+        System.out.println(fullName.length());
     }
 }
