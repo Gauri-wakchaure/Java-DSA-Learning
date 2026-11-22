@@ -6,10 +6,6 @@ public class Strings{
 
         // String Class is used to store Name, Sentence or Word
         // Strings are Immutable
-        String str1 = "Gauri";
-        String str2 = "Wakchaure";
-        System.out.println(str1 + " " + str2);
-
         // next() function to take only single word as an input from user
         Scanner sc = new Scanner(System.in);
         String name = sc.next();
