@@ -19,5 +19,11 @@ public class Strings{
 
         String fullName = "Gauri Wakchaure";
         System.out.println(fullName.length());
+
+        // CharAt function
+        for(int i = 0; i < fullName.length(); i++){
+            System.out.print(fullName.charAt(i) + " ");
+        }
+        System.out.println();
     }
 }
