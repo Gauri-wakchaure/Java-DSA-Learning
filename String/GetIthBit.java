@@ -10,4 +10,3 @@ public class GetIthBit{
     public static void main(String aegs[]){
         System.out.println(getIthBit(10, 3));
     }
-}
