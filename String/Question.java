@@ -17,7 +17,7 @@ public class Question{
         return sb.toString();
     }
     public static void main(String[] args) {
-        String str = "hi, i am gauri";
+        String str = "hello my name is gauri and i'm software developer";
         System.out.println(toUpperCase(str));
     }
 }
