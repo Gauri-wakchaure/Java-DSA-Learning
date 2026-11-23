@@ -11,7 +11,7 @@ public class CheckStringPalindrome{
         return true;
     }
     public static void main(String[] args) {
-        String str = "Gauri";
+        String str = "racecar";
         System.out.println(isPalindrome(str));
     }
 }
